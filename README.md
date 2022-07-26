@@ -1,5 +1,4 @@
 # YourPlaces
-# SharePlace-MERN
 
 ### Full Stack Application built using React at Frontend and Node.js at Backend.
 
