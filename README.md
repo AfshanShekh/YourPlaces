@@ -19,7 +19,6 @@ Application helps people to share places to other users by uploading Image of th
 - Validation and authentication of data has also been done
 - Deployed in **Heroku**
 
-Output can be viewed [here](https://fir-blogapp-fc817.web.app/)
 
 ### screenshots
 
